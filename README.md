@@ -10,7 +10,7 @@ The goal of this project is to clean, analyze, and visualize the dataset to disc
 
 ## 📂 Dataset
 - Source: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)  
-- Size: ~8,800 records  
+- Size: ~ 7970 records  
 - Features: `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
 ---
